@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=necip-yolcu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![Necip's GitHub stats](https://github-readme-stats.vercel.app/api?username=necip-yolcu&show_icons=true&theme=dark)
+![Necip's GitHub stats](https://github-readme-stats.vercel.app/api?username=necip-yolcu&show_icons=true&theme=merko)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
