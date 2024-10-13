@@ -1,5 +1,5 @@
 # 💫 About Me (https://necip-yolcu.github.io/portfolio/):
-🔭 I'm currently working at VARTUR and having projects with my friends<br>👯 I’m looking to collaborate on full project from frontend to backend<br>💬 Ask me about frontend and backend <br>⚡ “Underpromise and overdeliver.”
+🔭 I'm currently working and having projects with my friends<br>👯 I’m looking to collaborate on full project from frontend to backend<br>💬 Ask me about frontend and backend
 
 
 ## 🌐 Socials:
